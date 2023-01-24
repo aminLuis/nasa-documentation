@@ -1,0 +1,7 @@
+{
+  "name": "documentation-nasa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
