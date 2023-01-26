@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  API_KEY: 'mJXCFiDINQhOZ6N1ec1S0qOllbh8zFfa6NyPLtVD',
+  API_APOD: 'https://api.nasa.gov/planetary/apod'
 };
 
 /*
